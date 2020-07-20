@@ -1,0 +1,58 @@
+body {
+  font-size: 16px;
+  color: black;
+  font-family: 'Fredoka One', cursive;
+}
+
+.navbar {
+  background-color: lightblue;
+}
+
+#header-nav .container {
+  padding: 0;
+  margin-right: 0;
+  margin-left: 0;
+}
+
+#header-nav .navbar-header {
+  width: 100%;
+}
+
+.navbar h1{
+  color: black;
+}
+
+.navbar-brand a:hover {
+  text-decoration: none;
+}
+
+.navbar-light .navbar-nav .nav-link{
+  color: #000080;
+}
+
+.main-content {
+  background-color: silver;
+  padding: 0;
+}
+
+.content-title h2 {
+  margin-bottom: 75px;
+  margin-top: 15px;
+}
+
+body .container {
+  margin: auto;
+}
+
+.vanilla {
+  background-color: #98ff98
+}
+
+.chocolate {
+  background-color: #D2691E;
+}
+
+.strawberry {
+  background-color: pink;
+}
+ 
